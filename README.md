@@ -6,8 +6,6 @@ Features
 
 Weight and Height Input: Users input their weight in kg and height in cm.
 
-BMI Calculation: The app calculates BMI based on the user's input using the formula: BMI = weight (kg) / (height (m) * height (m)), where height is converted from cm to meters.
-
 BMI Display: The calculated BMI is displayed to the user.
 
 Usage
